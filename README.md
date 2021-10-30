@@ -1,1 +1,3 @@
-# classifiedsExample
+# Classifieds Example
+
+* Multi-column layout
